@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: y0op838xv-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/y0op838xv-dotnet-basic
